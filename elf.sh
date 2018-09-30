@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 echo "ELF CLEANER BY TERMUX ID"
-read -p  "Klik enter utk melankutkan > "
+#read -p  "Klik enter utk melankutkan > " xxx
 if [[ $(lscpu | awk '/Architecture/ {print $2}') != 'armv7l' ]]; then
 echo "[!] Selain processor armv7l tidak didukung"
 exit
