@@ -8,8 +8,8 @@ exit
 else
 echo "[*] Mendownload alat......"
 sleep 1
-curl -sk https://iman24.github.io/termux-elf-cleaner -o $PREFIX/bin/elf
-chmod +x $PREFIX/bin/elf
+curl -sk https://iman24.github.io/termux-elf-cleaner -o $PREFIX/bin/termux-elf-cleaner
+chmod +x $PREFIX/bin/termux-elf-cleaner
 echo "[*] Memproses...."
 sleep 2
 FIX=$PREFIX/lib
