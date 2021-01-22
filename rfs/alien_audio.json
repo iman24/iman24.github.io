@@ -4,31 +4,32 @@
         {
         "status": "0",
         "link": "https://play.google.com/store/apps/details?id=",
-        "interid": "",
-        "bannerid":"",
-        "openid":"",
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "bannerid":"ca-app-pub-3940256099942544/6300978111",
+        "openid":"ca-app-pub-3940256099942544/1033173712",
         "pengaturan_iklan":"1",
         "fan_inter":"YOUR_PLACEMENT_ID",
         "fan_banner":"YOUR_PLACEMENT_ID",
-   	  	"startappid":"",
-        "mopub_banner":"",
-        "mopub_inter":"",
-        "unityID":"",
-        "unity_inter":"",
-        "unity_banner":""
+   	  	"startappid":"123456789",
+        "mopub_banner":"b195f8dd8ded45fe847ad89ed1d016da",
+        "mopub_inter":"24534e1901884e398f1253216226017e",
+        "unityID":"3896203",
+        "unity_inter":"video",
+        "unity_banner":"bannerid"
      
         }
     ],
     
-    "Category": [
-    {
-      "id" : 1,
-      "host" : "Khalid Basalamah",
-      "gambar" : "https://carapandang.com/assets/images/news/carapandang-30506.jpg"
-    }
-  ],
+    "Category": 
+    [
+      {
+        "id" : 1,
+        "host" : "Khalid Basalamah",
+        "gambar" : "https://carapandang.com/assets/images/news/carapandang-30506.jpg"
+      }
+    ],
 
-  "music": [
+    "music": [
     {
       "id" : 1,
       "judul" : "Nasihat kepada yang malas ibadah",
