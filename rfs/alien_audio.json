@@ -1,0 +1,44 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+        "interid": "",
+        "bannerid":"",
+        "openid":"",
+        "pengaturan_iklan":"1",
+        "fan_inter":"YOUR_PLACEMENT_ID",
+        "fan_banner":"YOUR_PLACEMENT_ID",
+   	  	"startappid":"",
+        "mopub_banner":"",
+        "mopub_inter":"",
+        "unityID":"",
+        "unity_inter":"",
+        "unity_banner":""
+     
+        }
+    ],
+    
+    "Category": [
+    {
+      "id" : 1,
+      "host" : "Khalid Basalamah",
+      "gambar" : "https://carapandang.com/assets/images/news/carapandang-30506.jpg"
+    }
+  ],
+
+  "music": [
+    {
+      "id" : 1,
+      "judul" : "Nasihat kepada yang malas ibadah",
+      "host" : "Khalid Basalamah",
+      "gambar" : "http://storage.googleapis.com/automotive-media/album_art.jpg",
+      "link_mp3" : "http://hexa.web.id/malas_ibadah.mp3",
+      "lirik" : "http://hexa.web.id/contoh_text.html",
+      "durasi" : 52
+    }
+  ]
+
+}
+}
