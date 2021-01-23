@@ -1,5 +1,4 @@
 google.com, pub-7436225079503837, DIRECT, f08c47fec0942fa0
-
 unity.com, 2977640, DIRECT, 96cabb5fbdde37a7
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
@@ -27,7 +26,6 @@ kidoz.net, 19692013, RESELLER
 lemmatechnologies.com, 362, RESELLER
 telaria.com, rwd19-2977640, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-2977640, RESELLER, 1a4e959a1b50034a
-
 startapp.com, 131890603, DIRECT
 start.io, 131890603, DIRECT
 pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
