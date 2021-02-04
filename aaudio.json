@@ -1,0 +1,20 @@
+{
+  "Ads": [
+    {
+      "select_ads": "FACEBOOK",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-7436225079503837/1299934766",
+      "admob_bannerid": "ca-app-pub-7436225079503837/7163485591",
+      "admob_openid": "ca-app-pub-7436225079503837/2880463952",
+      "interval_intertitial": "5",
+      "startappid": "200578365",
+      "fan_inter": "3528755037241341_3528755087241336",
+      "fan_banner": "3528755037241341_3528758277241017",
+      "mopub_banner": "",
+      "mopub_inter": "",
+      "appodeal_key": "",
+      "packagename": "ancindev.dj.musikacoustic"
+    }
+  ]
+}
