@@ -11,10 +11,218 @@
       "startappid": "200578365",
       "fan_inter": "3528755037241341_3528755087241336",
       "fan_banner": "3528755037241341_3528758277241017",
-      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_banner": "3528755037241341_3528758277241017",
       "mopub_inter": "24534e1901884e398f1253216226017e",
       "appodeal_key": "123456",
       "packagename": "ancindev.dj.musikacoustic"
     }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Adlani Rambe",
+      "image": "file:///android_asset/image/1.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id" : 1,
+      "judul" : "Pergi Hilang Dan Lupakan",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/1.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/1.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik1.html",
+      "duration" : 287
+    },
+    {
+      "id" : 2,
+      "judul" : "Isabella",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/2.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/2.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik2.html",
+      "duration" : 270
+    },
+    {
+      "id" : 3,
+      "judul" : "Ku Ingin Lupakan",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/3.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/3.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik3.html",
+      "duration" : 290
+    },
+    {
+      "id" : 4,
+      "judul" : "Biarkan Cintamu Berlalu",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/4.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/4.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik4.html",
+      "duration" : 308
+    },
+    {
+      "id" : 5,
+      "judul" : "Syahara",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/5.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/5.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik5.html",
+      "duration" : 242
+    },
+    {
+      "id" : 6,
+      "judul" : "Kau Tercipta Bukan Untukku",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/6.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/6.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik6.html",
+      "duration" : 263
+    },
+    {
+      "id" : 7,
+      "judul" : "Mama Aku Ingin Pulang",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/7.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/8.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik7.html",
+      "duration" : 370
+    },
+    {
+      "id" : 8,
+      "judul" : "Rindu Serindu-rindunya",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/8.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/8.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik8.html",
+      "duration" : 495
+    },
+    {
+      "id" : 9,
+      "judul" : "Seberkas Sinar",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/9.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/9.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik9.html",
+      "duration" : 273
+    },
+    {
+      "id" : 10,
+      "judul" : "Bintang Kehidupan",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/10.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/10.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik10.html",
+      "duration" : 324
+    },
+    {
+      "id" : 11,
+      "judul" : "Mencari Alasan",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/11.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/11.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik11.html",
+      "duration" : 312
+    },
+    {
+      "id" : 12,
+      "judul" : "Sandiwara Cinta",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/12.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/12.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik12.html",
+      "duration" : 265
+    },
+    {
+      "id" : 13,
+      "judul" : "Ku Tak Bersuara",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/13.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/13.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik13.html",
+      "duration" : 244
+    },
+    {
+      "id" : 14,
+      "judul" : "Sampai Aku Tutup Usia",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/14.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/14.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik14.html",
+      "duration" : 260
+    },
+    {
+      "id" : 15,
+      "judul" : "Titip Rindu Buat Ayah",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/15.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/15.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik15.html",
+      "duration" : 362
+    },
+    {
+      "id" : 16,
+      "judul" : "Gerimis Mengundang",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/16.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/16.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik16.html",
+      "duration" : 423
+    },
+    {
+      "id" : 17,
+      "judul" : "Pergilah Kasih",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/17.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/17.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik17.html",
+      "duration" : 370
+    },
+    {
+      "id" : 18,
+      "judul" : "Rindiani",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/18.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/18.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik18.html",
+      "duration" : 309
+    },
+    {
+      "id" : 19,
+      "judul" : "Menepi",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/19.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/19.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik19.html",
+      "duration" : 315
+    },
+    {
+      "id" : 20,
+      "judul" : "BILA",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/20.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/20.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik20.html",
+      "duration" : 202
+    },
+    {
+      "id" : 21,
+      "judul" : "Duri Terlindung",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/21.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/21.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik21.html",
+      "duration" : 267
+    },
+    {
+      "id" : 22,
+      "judul" : "Aishiteru",
+      "name_category" : "Adlani Rambe",
+      "image" : "https://iman24.github.io/rfs/img/22.jpg",
+      "link_mp3" : "https://archive.org/16/items/adlanirambe/22.mp3",
+      "lyrics" : "file:///android_asset/liric/lirik22.html",
+      "duration" : 204
+    }
   ]
 }
+
