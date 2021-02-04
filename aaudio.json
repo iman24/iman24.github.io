@@ -1,228 +1,227 @@
 {
-  "Ads": [
-    {
-      "select_ads": "FACEBOOK",
-      "status_app": "0",
-      "link_redirect": "https://",
-      "admob_interid": "ca-app-pub-7436225079503837/1299934766",
-      "admob_bannerid": "ca-app-pub-7436225079503837/7163485591",
-      "admob_openid": "ca-app-pub-7436225079503837/2880463952",
-      "interval_intertitial": "5",
-      "startappid": "200578365",
-      "fan_inter": "3528755037241341_3528755087241336",
-      "fan_banner": "3528755037241341_3528758277241017",
-      "mopub_banner": "3528755037241341_3528758277241017",
-      "mopub_inter": "24534e1901884e398f1253216226017e",
-      "appodeal_key": "123456",
-      "packagename": "ancindev.dj.musikacoustic"
-    }
-  ],
-  "Categories": [
-    {
-      "id": 1,
-      "name_category": "Adlani Rambe",
-      "image": "file:///android_asset/image/1.jpg"
-    }
-  ],
-  "Data": [
-    {
-      "id" : 1,
-      "judul" : "Pergi Hilang Dan Lupakan",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/1.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/1.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik1.html",
-      "duration" : 287
-    },
-    {
-      "id" : 2,
-      "judul" : "Isabella",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/2.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/2.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik2.html",
-      "duration" : 270
-    },
-    {
-      "id" : 3,
-      "judul" : "Ku Ingin Lupakan",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/3.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/3.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik3.html",
-      "duration" : 290
-    },
-    {
-      "id" : 4,
-      "judul" : "Biarkan Cintamu Berlalu",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/4.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/4.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik4.html",
-      "duration" : 308
-    },
-    {
-      "id" : 5,
-      "judul" : "Syahara",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/5.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/5.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik5.html",
-      "duration" : 242
-    },
-    {
-      "id" : 6,
-      "judul" : "Kau Tercipta Bukan Untukku",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/6.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/6.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik6.html",
-      "duration" : 263
-    },
-    {
-      "id" : 7,
-      "judul" : "Mama Aku Ingin Pulang",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/7.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/8.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik7.html",
-      "duration" : 370
-    },
-    {
-      "id" : 8,
-      "judul" : "Rindu Serindu-rindunya",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/8.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/8.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik8.html",
-      "duration" : 495
-    },
-    {
-      "id" : 9,
-      "judul" : "Seberkas Sinar",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/9.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/9.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik9.html",
-      "duration" : 273
-    },
-    {
-      "id" : 10,
-      "judul" : "Bintang Kehidupan",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/10.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/10.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik10.html",
-      "duration" : 324
-    },
-    {
-      "id" : 11,
-      "judul" : "Mencari Alasan",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/11.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/11.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik11.html",
-      "duration" : 312
-    },
-    {
-      "id" : 12,
-      "judul" : "Sandiwara Cinta",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/12.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/12.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik12.html",
-      "duration" : 265
-    },
-    {
-      "id" : 13,
-      "judul" : "Ku Tak Bersuara",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/13.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/13.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik13.html",
-      "duration" : 244
-    },
-    {
-      "id" : 14,
-      "judul" : "Sampai Aku Tutup Usia",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/14.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/14.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik14.html",
-      "duration" : 260
-    },
-    {
-      "id" : 15,
-      "judul" : "Titip Rindu Buat Ayah",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/15.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/15.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik15.html",
-      "duration" : 362
-    },
-    {
-      "id" : 16,
-      "judul" : "Gerimis Mengundang",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/16.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/16.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik16.html",
-      "duration" : 423
-    },
-    {
-      "id" : 17,
-      "judul" : "Pergilah Kasih",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/17.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/17.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik17.html",
-      "duration" : 370
-    },
-    {
-      "id" : 18,
-      "judul" : "Rindiani",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/18.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/18.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik18.html",
-      "duration" : 309
-    },
-    {
-      "id" : 19,
-      "judul" : "Menepi",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/19.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/19.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik19.html",
-      "duration" : 315
-    },
-    {
-      "id" : 20,
-      "judul" : "BILA",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/20.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/20.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik20.html",
-      "duration" : 202
-    },
-    {
-      "id" : 21,
-      "judul" : "Duri Terlindung",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/21.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/21.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik21.html",
-      "duration" : 267
-    },
-    {
-      "id" : 22,
-      "judul" : "Aishiteru",
-      "name_category" : "Adlani Rambe",
-      "image" : "https://iman24.github.io/rfs/img/22.jpg",
-      "link_mp3" : "https://archive.org/16/items/adlanirambe/22.mp3",
-      "lyrics" : "file:///android_asset/liric/lirik22.html",
-      "duration" : 204
-    }
-  ]
+    "Ads": [
+        {
+            "select_ads": "FACEBOOK",
+            "status_app": "0",
+            "link_redirect": "https:\/\/",
+            "admob_interid": "ca-app-pub-7436225079503837\/1299934766",
+            "admob_bannerid": "ca-app-pub-7436225079503837\/7163485591",
+            "admob_openid": "ca-app-pub-7436225079503837\/2880463952",
+            "interval_intertitial": "5",
+            "startappid": "200578365",
+            "fan_inter": "3528755037241341_3528755087241336",
+            "fan_banner": "3528755037241341_3528758277241017",
+            "mopub_banner": "",
+            "mopub_inter": "",
+            "appodeal_key": "",
+            "packagename": "ancindev.dj.musikacoustic"
+        }
+    ],
+    "Categories": [
+        {
+            "id": 1,
+            "name_category": "Adlani Rambe",
+            "image": "file:\/\/\/android_asset\/image\/1.jpg"
+        }
+    ],
+    "Data": [
+        {
+            "id": 1,
+            "title": "Pergi Hilang Dan Lupakan",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/1.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/1.mp3",
+            "lyrics": "Dunia hari ini begitu tak berarti<br>Tak berjalan cepat seolah tak peduli<br>Lambat laun ku bertahan dengan hari ini<br>Hari yang takkan pernah berakhir<br><br><br>Semua telah berubah sejalan dengan waktu<br>Setiap detik berharga bagiku<br>Waktu pun ingin kuubah, kembali tertawa<br>Aku hanya bisa menangis, aku tak bisa<br><br><br>Maafkanlah diriku atas semua kesalahan<br>Yang kuperbuat selama ini kepada dirimu<br>Daku berjanji akan melepasmu dengan senyuman<br>Yang akan kau ingat dan kau kenang sampai mati<br>Selamanya<br><br><br>Semua telah berubah sejalan dengan waktu<br>Setiap detik berharga bagiku<br>Waktu pun ingin kuubah 'tuk kembali tertawa<br>Aku hanya bisa menangis, aku tak bisa<br><br><br>Maafkanlah diriku atas semua kesalahan<br>Yang kuperbuat selama ini kepada dirimu<br>Daku berjanji akan melepasmu dengan senyuman<br>Yang 'kan kau ingat\u2026<br><br>",
+            "duration": 287
+        },
+        {
+            "id": 2,
+            "title": "Isabella",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/2.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/2.mp3",
+            "lyrics": "Isabella adalah kisah cinta dua dunia<br>Mengapa kita berjumpa namun akhirnya terpisah?<br>Siang jadi hilang ditelan kegelapan malam<br>Alam yang terpisah melenyapkan sebuah kisah<br><br>Terbayang lambaiannya, salju terbakar kehangatan<br>Dunia dipenuhi warna berseri bunga cinta<br>Kita yang terlena hingga musim berubah<br>Mentari menyepi bernyalalah api cinta<br><br>Dia Isabella, lambang cinta yang lara<br>Terpisah kerana adat yang berbeza<br>Cinta gugur bersama daun-daun kekeringan<br>Dia Isabella, lambang cinta yang lara<br>Terpisah kerana adat<br>",
+            "duration": 270
+        },
+        {
+            "id": 3,
+            "title": "Ku Ingin Lupakan",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/3.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/3.mp3",
+            "lyrics": "Malam semakin sepi<br>Kuhadapi semua kenyataan ini<br>Dapatkah kusimpan semua kerinduan?<br>Aku tak akan pernah tahu pasti<br><br>Harus aku akui<br>Betapa dalam rasa cinta padamu<br>Salahkah bila kuberharap kembali?<br>Cinta yang usai kini kusesali<br><br>Bagai mimpi<br>Ingin kulupakan semua cinta<br>Tapi mengapa tak kuasa<br>Ingin aku menghindari bayanganmu<br>Tapi mengapa selalu datang saja<br><br>Mengapa, mengapa wajahmu selalu menyiksa jiwa?<br>Walaupun telah ada pengganti dirimu yang di sana<br>Tetapi diriku kecewa<br>Walau telah kucoba merasa<br>Memiliki cinta bersamanya<br>Namun semua sia-sia<br><br>Harus aku akui<br>Betapa dalam rasa cinta padamu<br>Salahkah bila kuberharap kembali?<br>Cinta yang usai kini kusesali<br>Bagai mimpi<br>Ingin\u2026<br><br>",
+            "duration": 290
+        },
+        {
+            "id": 4,
+            "title": "Biarkan Cintamu Berlalu",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/4.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/4.mp3",
+            "lyrics": "Biarkan Ku Pergi<br>Menyusuri Jalan Berliku<br>Walau Sakit Kurasakan Tanpa Cinta Lagi<br>Mimpi Mimpi Yang Indah Hanya Sementara Saja<br>Bagai Bunga Telah Layu<br>Kau Campakkan Diriku<br><br>Begini Akhirnya Klisah Cintaku Terluka Direlung Hati Yang Dalam<br>Ku Coba Tuk Bernyanyi Walau Dalam Sepi<br>Harus Aku Lupakan Kisah Kasih Dengan Mu Biarkanlah Menjau<br><br>Biar (biar) Biarkan Aku Sendiri<br>Biar(biar) Kuikuti Nasib Ini<br>Biar(biar) Hidup Tanpa Cinta Lagi<br>Akupun Tak Sanggup Lagi Mengikuti Cara Hidupmu<br>Biar Ku Terima Luka Ini",
+            "duration": 308
+        },
+        {
+            "id": 5,
+            "title": "Syahara",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/5.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/5.mp3",
+            "lyrics": "Syahara, kasihku<br>Kau menyinari ruang hidupku<br>Syahdunya bersamamu<br>Mengenang di hatiku<br>Syahara<br><br>Syahara, sayangku<br>Mengukir indahnya bersamamu<br>Jalinan rasa rindu<br>Memburu di hatiku<br>Syahara<br><br>O-o-o-oh<br>Syahara<br><br>Syahara, engkaulah gadis pujaan<br>Siramilah rasa rindu<br>Andai engkau dapat mengerti<br>Betapa 'ku menyayangi<br>Dan bila pada suatu hari nanti<br>Engkau dapat kumiliki<br>Takkan pernah aku lepaskan<br>Dirimu oh Syahara<br><br>O-o-o-oh<br>Syahara<br><br>Syahara, kasihku<br>Kau menyinari ruang hidupku<br>Syahdunya bersamamu<br>Mengenang di hatiku<br>Syahara<br><br>Syahara, sayangku<br>Mengukir indahnya bersamamu<br>Jalinan rasa rindu<br>Memburu di hatiku<br>Syahara<br><br>O-o-o-oh<br>Syahara<br><br>Syahara, engkaulah gadis pujaan<br>Siramilah rasa rindu<br>Andai engkau dapat mengerti<br>Betapa 'ku menyayangi<br>Dan bila pada suatu hari nanti<br>Engkau\u2026",
+            "duration": 242
+        },
+        {
+            "id": 6,
+            "title": "Kau Tercipta Bukan Untukku",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/6.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/6.mp3",
+            "lyrics": "'Kan kubawa wajahmu, 'kan kubawa namamu<br>Kuingin tidur dan bermimpi malam ini<br>Di sini di kamar ini, sendiri melintas sepi<br>Kusut masam rambut dan gaun malam, ku tak peduli<br><br>Di sana kau berdua, di sini aku yang sendiri<br>Di sana kau tersenyum, di sini aku yang menangis<br><br>Jangankan untuk bertemu (bertemu)<br>Memandang pun saja sudah tak boleh (tak boleh)<br>Apalagi menyanyi bersama bagai hari lalu (bagai hari lalu)<br><br>Jangankan mengirim surat (mengirim surat)<br>Menitip salam pun sudah tak boleh (tak boleh)<br>Ternyata memang kau tercipta bukan untukku, oh<br><br>'Kan kusimpan wajahmu, 'kan kuukir namamu<br>'Kan kubuktikan kesetiaanku padamu<br>Biarlah di sini sendiri merajut hari-hari<br>Bukankah esok atau lusa? Mati pun aku sendiri<br><br>Jangankan untuk bertemu, bertemu<br>Jangankan untuk bertemu,\u2026",
+            "duration": 263
+        },
+        {
+            "id": 7,
+            "title": "Mama Aku Ingin Pulang",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/7.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/8.mp3",
+            "lyrics": "Mama, oh mama<br>Aku ingin pulang<br>Kurindu kepadamu<br>Dulu tak mendengar nasehatmu<br>Mama, maafkan anakmu<br><br>Mama, oh mama<br>Aku ingin pulang<br>Kurindu kepadamu<br>Dia yang kucinta telah berdusta<br>Kini tinggalkan diriku<br><br>Hidupku kini tiada arti<br>Bagaikan burung di dalam sangkarnya<br>'Ku ingin bebas dari derita<br>Mama, tolonglah diriku<br>Dari belenggu cintanya<br><br>Cincin emas melingkar<br>Ia berikan dulu<br>Untuk apa kalau ia tak cinta?<br>Gaun bersulam sutra<br>Ia berikan dulu<br>Untuk apa kalau ia tak rindu?<br>Keringlah sudah air mataku<br>Mama, aku ingin pulang<br><br>Hidupku kini tiada arti<br>Bagaikan burung di dalam sangkarnya<br>'Ku ingin bebas dari derita<br>Mama, tolonglah diriku<br>Dari belenggu cintanya<br>Cincin emas melingkar<br>Ia\u2026",
+            "duration": 370
+        },
+        {
+            "id": 8,
+            "title": "Rindu Serindu-rindunya",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/8.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/8.mp3",
+            "lyrics": "Berikanlah jawaban<br>Huraikanlah simpulan<br>Biar tenang jiwaku<br>Setelah kasih lama berlalu<br><br>Tidak mungkin kulupa<br>Perjanjian kita<br>Di bawah rumpun bambu<br>Di kala bulan sedang beradu<br><br>Mengapa terjadi perpisahan ini?<br>Di kala asmara melebar sayapnya<br>Mengapa kau pergi di saat begini?<br>Di kala hatiku terlukis namamu<br><br>Kalau memang tiada jodoh<br>Apa lagi nak 'ku heboh<br>Aku malu pada teman<br>Pada semua<br><br>Rindu, rindu serindu-rindunya<br>Namun engkau tak mengerti<br>Pilu, pilu sepilu-pilunya<br>Namun engkau tak peduli<br><br>Malu semalu-malunya<br>Namun apa daya orang tak sudi<br>Mahu semahu-mahunya<br>Namun apa daya orang dah benci<br><br>Mengapa terjadi perpisahan ini?<br>Di kala asmara melebar sayapnya<br>Mengapa kau pergi di saat begini?<br>Di kala hatiku terlukis namamu<br><br>Kalau memang tiada jodoh<br>Apa\u2026",
+            "duration": 495
+        },
+        {
+            "id": 9,
+            "title": "Seberkas Sinar",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/9.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/9.mp3",
+            "lyrics": "Jenuh aku mendengar<br>Manisnya kata cinta<br>Lebih baik sendiri<br>Bukannya sekali<br>Sering kumencoba<br>Namun ku gagal lagi<br><br>Mungkin nasib ini<br>Suratan tanganku<br>Harus tabah menjalani<br><br>Jauh sudah langkahku<br>Menyusuri hidupku<br>Yang penuh tanda tanya<br>Kadang hati bimbang<br>Menentukan sikapku<br>Tiada tempat mengadu<br>Hanya iman di dada<br>Yang membuatku mampu<br>Selalu tabah menjalani<br><br>Malam-malam aku sendiri<br>Tanpa cintamu lagi<br>Ho-uwo-oo<br>Hanya satu keyakinanku<br>Bintang kan bersinar<br>Menerpa hidupku<br>Bahagia kan datang<br><br>Jenuh aku mendengar<br>Manisnya kata cinta<br>Lebih baik sendiri<br>Bukannya sekali<br>Sering ku mencoba<br>Namun ku gagal lagi<br><br>Hanya iman di dada<br>Yang membuatku mampu<br>Selalu tabah\u2026",
+            "duration": 273
+        },
+        {
+            "id": 10,
+            "title": "Bintang Kehidupan",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/10.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/10.mp3",
+            "lyrics": "Jenuh aku mendengar<br>Manisnya kata cinta<br>Lebih baik sendiri<br>Bukannya sekali<br>Sering ku mencoba<br>Namun ku gagal lagi<br><br>Mungkin nasib ini<br>Suratan tanganku<br>Harus tabah menjalani<br><br>Jauh sudah langkahku<br>Menyusuri hidupku<br>Yang penuh tanda tanya<br>Kadang hati bimbang<br><br>Menentukan sikapku<br>Tiada tempat mengadu<br>Hanya iman di dada<br>Yang membuatku mampu<br>S'lalu tabah menjalani<br><br>Malam-malam aku sendiri<br>Tanpa cintamu lagi<br>Ho-uwo, oo-oo<br>Hanya satu keyakinanku<br>Bintang kan bersinar<br>Menerpa hidupku<br>Bahagia kan datang, oh<br><br>Jenuh aku mendengar<br>Manisnya kata cinta<br>Lebih baik sendiri<br>Bukannya sekali<br>Sering ku mencoba<br>Namun ku gagal lagi<br>Hanya iman di dada<br>Yang membuatku mampu<br>S'lalu tabah\u2026",
+            "duration": 324
+        },
+        {
+            "id": 11,
+            "title": "Mencari Alasan",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/11.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/11.mp3",
+            "lyrics": "Ikhlasnya hati sering kali disalah arti<br>Tulusnya cinta tidak pernah engkau hargai<br>Berlalu pergi dengan kelukaan ini<br>Ku mengalah ku bersabar<br><br>Berpaling muka bila saling bertatap mata<br>Seolah kita tiada pernah saling menyinta<br>Mencari sebab serta mencari alasan<br>Supaya tercapai hasratmu<br><br>Manis di bibir memutar kata<br>Malah kau tuduh akulah segala penyebabnya<br>Siapa terlena pastinya terpana<br>Bujuknya rayunya suaranya<br>Yang meminta simpati dan harapan<br><br>Engkau pastinya tersenyum<br>Dengan pengunduran diriku<br>Tetapi bagi diriku suatu ketenangan<br>Andainya kita terus bersama<br>Belum tentu kita bahagia<br>Selama tidak kau rubah cara hidupmu<br><br>Ada baiknya bila tidak lagi bersama<br>Terasa jauh diriku ini dengan dosa<br>Aku tinggalkan walau tanpa kerelaan<br>Yang nyata kau tidak merubah<br><br>Berpaling muka bila saling bertatap mata<br>Seolah kita tiada pernah saling menyinta<br>Mencari sebab serta mencari alasan<br>Supaya tercapai hasratmu<br><br>Manis di bibir memutar kata<br>Malah kau tuduh akulah segala penyebabnya<br>Siapa terlena pastinya terpana<br>Bujuknya rayunya suaranya<br>Yang meminta simpati dan harapan<br><br>Engkau pastinya tersenyum<br>Dengan pengunduran diriku<br>Tetapi bagi diriku suatu ketenangan<br>Andai kita terus bersama<br>Belum tentu kita bahagia<br>Selama tidak kau rubah cara hidupmu<br><br>Katakan apa yang kau ingin<br>Selagi kau dapat berkata<br>Memang begini sikapmu<br>Semenjak dahulu<br>Andainya kita terus bersama<br>Belum tentu kita bahagia<br>Selama tidak kau rubah cara hidupmu",
+            "duration": 312
+        },
+        {
+            "id": 12,
+            "title": "Sandiwara Cinta",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/12.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/12.mp3",
+            "lyrics": "Mengapa kau nyalakan api cinta dihatiku<br>Membakar jiwa yang merana<br>Kata manismu membuatku yakin kepadamu<br>Hingga membuatku terlena<br>Rindu padamu setiap hari<br>Bayang dirimu menggoda jiwa<br><br>Mengapa kini kurasakan lain dihatiku<br>Kau diam dan acuh tak acuh<br>Sering kau marah tanpa alasan<br>Membuatku curiga terbukalah berterus terang<br>Apa maumu katakan saja<br>Bila kau bosan kau marah kau benci katakan saja<br><br>Walau berat hatiku melupakan dirimu<br>Jangan kau bersandiwara kepadaku<br><br>Bosan mungkin itu sifatmu<br>Benci bila ingat dirimu<br>Bosan terserah apa maumu<br>Jalanku masih panjang<br>Walau berat hatiku melupakan dirimu<br>Jangan kau\u2026",
+            "duration": 265
+        },
+        {
+            "id": 13,
+            "title": "Ku Tak Bersuara",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/13.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/13.mp3",
+            "lyrics": "Izinkan cintaku<br>Berbunga dihatimu<br>Biar terus mekar jadi kenyataan<br>Tlah lama ku dahaga<br>Belaian seorang insan<br>Semoga bersamamu<br>Ceria hidupku<br><br>Ku tak akan bersuara<br>Walau dirimu kekurangan<br>Hanya setiamu itu kuharapkan<br>Ku tak akan menduakan<br>Walau kilauan menggoda<br>Kasih dan sayangku tetap utuh untukmu<br>Hanya kupinta darimu setialah selamanya<br>Sehingga abadi<br>Cinta ini sayang itu kudoakan<br><br>Ku tak akan bersuara<br>Walau dirimu kekurangan<br>Hanya setiamu itu kuharapkan<br>Ku tak akan menduakan<br>Walau kilauan menggoda<br>Kasih dan\u2026",
+            "duration": 244
+        },
+        {
+            "id": 14,
+            "title": "Sampai Aku Tutup Usia",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/14.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/14.mp3",
+            "lyrics": "Aku tercipta olehnya<br>Untuk selalu cintai kamu<br>Beri aku kesempatan<br>'Tuk bahagiakan dirimu<br><br>Kamu tercipta olehnya<br>Untuk selalu aku cintai<br>Genggam erat tangan ini<br>Jangan sampai kau lepaskan<br><br>Sampai aku tutup usia<br>'Kan kujaga hatimu<br>Sampai aku tua<br>Walau keriput di pipimu terlihat<br>Takkan goyahkan cintaku yang begitu kuat<br>Hm-mm<br><br>Kamu tercipta oleh-Nya<br>Untuk selalu aku cintai<br>Genggam erat tangan ini<br>Jangan sampai kau lepaskan<br><br>Sampai aku tutup usia<br>'Kan kujaga hatimu<br>Sampai aku tua<br>Walau keriput di pipimu terlihat<br>Takkan goyahkan cintaku yang begitu kuat<br>Sampai aku tutup\u2026",
+            "duration": 260
+        },
+        {
+            "id": 15,
+            "title": "Titip Rindu Buat Ayah",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/15.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/15.mp3",
+            "lyrics": "Di matamu masih tersimpan selaksa peristiwa<br>Benturan dan empasan terpahat di keningmu<br>Kau nampak tua dan lelah<br>Keringat mengucur deras<br>Namun kau tetap tabah<br>Meski napasmu kadang tersengal<br>Memikul beban yang makin sarat<br>Kau tetap bertahan<br><br>Engkau telah mengerti hitam dan merah jalan ini<br>Keriput tulang pipimu gambaran perjuangan<br>Bahumu yang dulu kekar, legam terbakar matahari<br>Kini kurus dan terbungkuk<br>Namun semangat tak pernah pudar<br>Meski langkahmu kadang gemetar<br>Kau tetap setia<br><br>Ayah, dalam hening sepi kurindu<br>Untuk menuai padi milik kita<br>Tapi kerinduan tinggal hanya kerinduan<br>Anakmu sekarang banyak\u2026",
+            "duration": 362
+        },
+        {
+            "id": 16,
+            "title": "Gerimis Mengundang",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/16.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/16.mp3",
+            "lyrics": "Kusangkakan panas berpanjangan<br>Rupanya gerimis, rupanya gerimis<br>Mengundang a-ha-ha-ah<br>Dalam tak sedar 'ku kebasahan<br><br>Pernah juga kau pinta perpisahan<br>Aku sangkakan itu hanyalah<br>Gurauan a-ha-ha-ah<br>Nyata kau serius dalam senyuman<br><br>Bukan sekejap denganmu<br>Bukan mainan hasratku<br>Engkau pun tahu niatku<br>Tulus dan suci<br>Senang benar kau ucapkan<br>Kau anggap itu suratan<br>Sikit pun riak wajahmu<br>Tiada terkilan<br><br>Hanya aku separuh nyawa<br>Menahan sebak di dada<br>Sedangkan kau bersahaja<br>Berlalu tanpa kata<br>Terasa diri amat terhina<br>Kau lakukan<br>Terasa diri amat terhina<br>Kau lakukan<br><br>Bukan sekejap denganmu<br>Bukan mainan hasratku<br>Engkau pun tahu niatku<br>Tulus dan suci<br>Senang benar kau ucapkan<br>Kau anggap itu suratan<br>Sikit\u2026",
+            "duration": 423
+        },
+        {
+            "id": 17,
+            "title": "Pergilah Kasih",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/17.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/17.mp3",
+            "lyrics": false,
+            "duration": 370
+        },
+        {
+            "id": 18,
+            "title": "Rindiani",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/18.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/18.mp3",
+            "lyrics": "file:\/\/\/android_asset\/liric\/lirik18.html",
+            "duration": 309
+        },
+        {
+            "id": 19,
+            "title": "Menepi",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/19.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/19.mp3",
+            "lyrics": "file:\/\/\/android_asset\/liric\/lirik19.html",
+            "duration": 315
+        },
+        {
+            "id": 20,
+            "title": "BILA",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/20.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/20.mp3",
+            "lyrics": "file:\/\/\/android_asset\/liric\/lirik20.html",
+            "duration": 202
+        },
+        {
+            "id": 21,
+            "title": "Duri Terlindung",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/21.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/21.mp3",
+            "lyrics": "file:\/\/\/android_asset\/liric\/lirik21.html",
+            "duration": 267
+        },
+        {
+            "id": 22,
+            "title": "Aishiteru",
+            "name_category": "Adlani Rambe",
+            "image": "https:\/\/iman24.github.io\/rfs\/img\/22.jpg",
+            "link_mp3": "https:\/\/archive.org\/16\/items\/adlanirambe\/22.mp3",
+            "lyrics": "file:\/\/\/android_asset\/liric\/lirik22.html",
+            "duration": 204
+        }
+    ]
 }
-
