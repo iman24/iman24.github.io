@@ -128,3 +128,6 @@ pubmatic.com, 159078, RESELLER, 5d62403b186f2ace
 adform.com, 2600, DIRECT
 stroeer.com, 17938, DIRECT
 axonix.com, 56222, RESELLER
+appodeal.com, 120704, DIRECT
+facebook.com, 205519257159312, RESELLER, c3e20eee3f780d68
+
