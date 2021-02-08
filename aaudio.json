@@ -1,7 +1,7 @@
 {
     "Ads": [
         {
-            "select_ads": "ADMOB",
+            "select_ads": "FACEBOOK",
             "status_app": "0",
             "link_redirect": "https:\/\/",
             "admob_interid": "ca-app-pub-7436225079503837\/1299934766",
