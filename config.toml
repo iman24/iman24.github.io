@@ -1,4 +1,4 @@
 baseURL = 'https://iman24.github.io/'
 languageCode = 'en-us'
 title = 'Iman24'
-theme = 'ananke'
+theme = 'PaperMod'
